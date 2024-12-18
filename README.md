@@ -56,6 +56,10 @@
 ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-3D%20Modeling-%2300A85A?style=for-the-badge&logo=leapfrog&logoColor=white)
 ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=for-the-badge&logo=leapfrog&logoColor=white)&nbsp;
 ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=flat&logo=leapfrog&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-%23009300.svg?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-%23008EAA.svg?style=for-the-badge&logo=arcgis&logoColor=white)
+
+
 
 
 ## Connect with me:
