@@ -50,6 +50,7 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23C41E3A.svg?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
+![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-3D%20Modeling-%2300A85A?style=for-the-badge&logo=leapfrog&logoColor=white)
 ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=for-the-badge&logo=leapfrog&logoColor=white)&nbsp;
 ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=flat&logo=leapfrog&logoColor=white)
 
