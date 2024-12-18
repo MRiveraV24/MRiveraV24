@@ -32,6 +32,17 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
 
+# Mi Proyecto de Visualización de Datos
+
+Este proyecto utiliza **Power BI** para crear dashboards interactivos y análisis de datos.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
+
+## Descripción
+Aquí va una breve descripción del proyecto.
+
+
+
 
 #### Tools and Technologies
 
