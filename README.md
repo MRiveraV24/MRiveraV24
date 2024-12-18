@@ -30,6 +30,8 @@
 #### Office
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
+
 
 #### Tools and Technologies
 
