@@ -9,44 +9,59 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### ML/DL
+#### Manipulación de datos
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+
+#### Visualización de datos 
+
+Seaborn
+Matplotlib
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
+
+#### Análisis estadístico 
+
+Scipy
+Statsmodels
+
+#### Aprendizaje automático 
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+PyTorch
+
+#### Aprendizaje profundo 
+
+Keras
+
+#### Procesamiento lenguaje natural 
+
+NLTK
+SpaCy
+
+#### Web Scraping 
+
+Scrappy
+Beautiful Soup
 
 #### Database
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Erwin Data Modeler
 
 
 #### Office
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
-
-# Mi Proyecto de Visualización de Datos
-
-Este proyecto utiliza **Power BI** para crear dashboards interactivos y análisis de datos.
-
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
-
-## Descripción
-Aquí va una breve descripción del proyecto.
-
-
 
 
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+
 
 #### IDEs
 
@@ -56,21 +71,25 @@ Aquí va una breve descripción del proyecto.
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-#### Design
+#### Diseño & GIS
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23C41E3A.svg?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
-![Leapfrog Geo](https://github.com/tuusuario/turepositorio/blob/main/ruta/a/la/imagen.png)&nbsp;
+![QGIS](https://img.shields.io/badge/QGIS-%23009300.svg?style=for-the-badge&logo=qgis&logoColor=white)&nbsp;
+![ArcGIS](https://img.shields.io/badge/ArcGIS-%23008EAA.svg?style=for-the-badge&logo=arcgis&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+#### Gestión de datos geológicos & Modelamiento geológico 3D 
+
 ![Datamine Software](https://github.com/tuusuario/turepositorio/blob/main/ruta/a/datamine_logo.png)&nbsp;
-![Datamine Software](https://img.shields.io/badge/Datamine%20Software-%23005B99.svg?style=for-the-badge&logo=datamine&logoColor=white)&nbsp;
-![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-3D%20Modeling-%2300A85A?style=for-the-badge&logo=leapfrog&logoColor=white)
 ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=for-the-badge&logo=leapfrog&logoColor=white)&nbsp;
-![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=flat&logo=leapfrog&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-%23009300.svg?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-%23008EAA.svg?style=for-the-badge&logo=arcgis&logoColor=white)
+Datamine Fusion
+Datamine Studio RM
 
 
+#### Sistemas ERP
 
+SAP (MM,CO)
 
 ## Connect with me:
 
