@@ -16,8 +16,8 @@
 
 #### Visualización de datos 
 
-Seaborn
-Matplotlib
+Seaborn;
+Matplotlib;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=Power-BI&logoColor=black)
 
