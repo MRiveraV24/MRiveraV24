@@ -78,14 +78,17 @@
 ---
 
 ### ⛏️ Gestión y Modelamiento Geológico 3D:
-- **Software especializado**:  
-  Datamine Fusion, Datamine Studio RM  
+- **Software especializado**:   
   ![Leapfrog Geo](https://img.shields.io/badge/Leapfrog%20Geo-%230075A9.svg?style=for-the-badge&logo=leapfrog&logoColor=white)&nbsp;
+  ![Datamine Fusion](https://img.shields.io/badge/Datamine%20Fusion-%230072B5.svg?style=for-the-badge&logo=dataminet&logoColor=white)&nbsp;
+  ![Datamine Studio RM](https://img.shields.io/badge/Datamine%20Studio%20RM-%23005484.svg?style=for-the-badge&logo=dataminet&logoColor=white)&nbsp;
+
+
 
 ---
 
 ### 📈 Sistemas ERP:
-SAP (MM, CO)  
+![SAP](https://img.shields.io/badge/SAP%20(MM%2C%20CO)-%2300A1E4.svg?style=for-the-badge&logo=sap&logoColor=white)&nbsp; 
 
 ---
 
