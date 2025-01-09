@@ -1,5 +1,11 @@
 # 👋 Hola, ¡bienvenido a mi perfil de GitHub!
 
+### 💼 **Sobre mí**
+👋 ¡Hola! Soy Marcelo, un especialista con más de 10 años de experiencia en administración, análisis y modelado de datos geocientíficos. Combino mi conocimiento en minería y geociencias con habilidades avanzadas en ciencia de datos para transformar datos complejos en soluciones claras que impulsan la toma de decisiones estratégicas.
+
+Estoy apasionado por aplicar tecnologías emergentes, como la inteligencia artificial y el aprendizaje automático, para optimizar procesos en la industria minera y más allá.
+
+
 ---
 
 ## 🚀 Habilidades Principales:
