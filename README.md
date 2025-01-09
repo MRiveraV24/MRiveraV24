@@ -43,8 +43,8 @@
 ---
 
 ### 🔍 Web Scraping:
-- **Frameworks y Herramientas**:  
-  Scrapy, Beautiful Soup  
+![Scrapy](https://img.shields.io/badge/Scrapy-%231A1A1A.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 
 ---
 
