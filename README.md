@@ -89,6 +89,37 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 
 ---
+# ⏩How to Run the Projects
+
+Each project has its own folder and contains a `README.md` with detailed instructions on how to run the code. Below is a general example of how to clone the repository and install the necessary dependencies:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd Portfolio_projects
+    ```
+
+3. Install the dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+4. Run the project's main script:
+    ```sh
+    python scripts/analysis.py
+    ```
+
+---
+
+¡Gracias por visitar mi portafolio! Estoy a tu disposición para responder cualquier pregunta o para discutir posibles oportunidades de colaboración. No dudes en ponerte en contacto conmigo para explorar cómo podemos trabajar juntos y lograr grandes cosas.
+
+
+
+
 
 ## 🚀 Habilidades Principales:
 
