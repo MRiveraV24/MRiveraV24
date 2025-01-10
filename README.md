@@ -33,6 +33,7 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 🛠️ **Tecnologías:** Python, Pandas, Scikit-learn.  
 📈 **Impacto:** Mejora del 37% en precisión de predicciones.
 
+### [Project 1: Fake News Detector Based on Neural Networks](https://github.com/luismmachados/Portfolio_project/tree/main/Projects/Project_01)
 - [Ver proyecto](#)
 
 ### 2️⃣ **Segmentación de Clientes para Productos Financieros**  
@@ -44,6 +45,9 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 📌 **Descripción:** Modelo basado en redes neuronales para detección de neumonía.  
 🛠️ **Tecnologías:** TensorFlow, Keras.  
 📈 **Impacto:** Alta precisión en la identificación de enfermedades, mejorando el diagnóstico temprano.
+
+### [Project 1: Detección de Neumonía en Imágenes de Rayos X](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
+- [Ver proyecto](#)
 
 ---
 
@@ -74,13 +78,15 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 ---
 
 ## 📌 **Repositorios Destacados**  
-🔗 **[Segmentación de Clientes para Geociencias](https://github.com/marc/client-segmentation-geoscience)**  
-🔗 **[Análisis Exploratorio de Datos Geológicos](https://github.com/marc/geoscience-eda)**  
-🔗 **[Detección de Anomalías en Muestras Mineras](https://github.com/marc/mining-anomalies-detection)**  
+🔗 **[Segmentación de Clientes para Geociencias](https://github.com/mar/client-segmentation-geoscience)**  
+🔗 **[Análisis Exploratorio de Datos Geológicos](https://github.com/mar/geoscience-eda)**  
+🔗 **[Detección de Anomalías en Muestras Mineras](https://github.com/mar/mining-anomalies-detection)**  
 
 ---
 
-
+## 📊 Estadísticas de GitHub:
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MRiveraV24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MRiveraV24 github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiveraV24&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ---
