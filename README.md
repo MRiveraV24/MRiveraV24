@@ -47,7 +47,7 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 📈 **Impacto:** Alta precisión en la identificación de enfermedades, mejorando el diagnóstico temprano.
 
 ### [Project 1: Detección de Neumonía en Imágenes de Rayos X](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
-- [Ver proyecto](#)
+- [Project 1: Detección de Neumonía en Imágenes de Rayos X](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
 
 ---
 
