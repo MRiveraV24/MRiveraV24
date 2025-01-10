@@ -1,9 +1,86 @@
-# 👋 Hola, ¡bienvenido a mi perfil de GitHub!
 
-### 💼 **Sobre mí**
-👋 ¡Hola! Soy Marcelo, un especialista con más de 10 años de experiencia en administración, análisis y modelado de datos geocientíficos. Combino mi conocimiento en minería y geociencias con habilidades avanzadas en ciencia de datos para transformar datos complejos en soluciones claras que impulsan la toma de decisiones estratégicas.
+---
 
-Estoy apasionado por aplicar tecnologías emergentes, como la inteligencia artificial y el aprendizaje automático, para optimizar procesos en la industria minera y más allá.
+# 🌎 **Marcelo - Administrador, Analista y Proyectista de Datos Geocientíficos** 
+
+## 🌟 **Propuesta de Valor**  
+🎯 Transformo datos geológicos complejos en soluciones estratégicas, impulsando decisiones basadas en datos en la industria minera.  
+🔍 Especializado en administración, análisis y modelado 3D de datos geocientíficos.  
+💼 Experiencia práctica en proyectos que integran ciencia de datos, machine learning y herramientas GIS para optimizar operaciones y exploración minera.
+
+---
+
+## 📘 **Sobre mí**  
+Soy Marcelo, un administrador, analista y proyectista de datos geológicos con más de 10 años de experiencia en minería y ciencias de datos. Mi pasión radica en ayudar a geólogos e ingenieros a tomar decisiones estratégicas a través de la integración de tecnologías avanzadas, análisis de datos y modelado geocientífico.
+
+- 🚀 **Ciencia de Datos aplicada a las Geociencias:** Uso de Python, SQL, y Power BI para la creación de bases de datos, análisis avanzado, y visualizaciones interactivas.  
+- 📊 **Optimización de procesos mineros:** Modelado 3D, segmentación de clientes y predicciones utilizando machine learning y deep learning.  
+- 🌎 **Gestión de Proyectos Mineros:** Experiencia en supervisión de operaciones y proyectos de exploración.
+
+---
+
+## 🏆 **Logros Destacados**  
+- Incremento del **60% en eficiencia de descarga de camiones** en proyectos TSF.  
+- Centralización del **100% de datos históricos geológicos**, logrando disponibilidad total.  
+- **Reducción del tiempo inactivo en un 15%** en operaciones a cielo abierto gracias a la optimización de seguridad y procesos.  
+
+---
+
+## 📂 **Proyectos Destacados**
+
+### 1️⃣ **Predicción de Ventas para Tiendas Retail**  
+📌 **Descripción:** Predicción de ventas en 500 tiendas y 50 productos.  
+🛠️ **Tecnologías:** Python, Pandas, Scikit-learn.  
+📈 **Impacto:** Mejora del 37% en precisión de predicciones.
+
+- [Ver proyecto](#)
+
+### 2️⃣ **Segmentación de Clientes para Productos Financieros**  
+📌 **Descripción:** Identificación de 4 segmentos clave de clientes para optimizar campañas de marketing.  
+🛠️ **Tecnologías:** Python, K-means, Power BI.  
+📈 **Impacto:** Decisiones estratégicas basadas en datos para aumentar la conversión de clientes.
+
+### 3️⃣ **Detección de Neumonía en Imágenes de Rayos X**  
+📌 **Descripción:** Modelo basado en redes neuronales para detección de neumonía.  
+🛠️ **Tecnologías:** TensorFlow, Keras.  
+📈 **Impacto:** Alta precisión en la identificación de enfermedades, mejorando el diagnóstico temprano.
+
+---
+
+## 📊 **Tecnologías y Herramientas**  
+- **Manipulación de Datos:** Python (Pandas, NumPy), SQL Server.  
+- **Visualización:** Power BI, Seaborn, Matplotlib.  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch.  
+- **Modelado 3D y GIS:** Leapfrog Geo, Datamine Studio RM, QGIS.  
+- **ERP y Procesos ETL:** SAP (MM, CO), SQL Server Integration Services.  
+
+---
+
+## 🎓 **Formación Académica y Continua**  
+- **Bootcamp en Ciencia de Datos e Inteligencia Artificial** - Universidad del Desarrollo (2023-2024).  
+- **Técnico Universitario en Geología** - Universidad de Atacama (1997-1999).  
+- **Cursos Relevantes:**  
+  - Azure AI Fundamentals (2023).  
+  - Modelamiento de Base de Datos con SQL Server (2020).  
+  - Modelado y Estimación en Studio RM (2020).
+
+---
+
+## 💬 **Contáctame**  
+🌐 [LinkedIn](https://linkedin.com/in/marc)  
+📧 marc@gmail.com  
+📂 [Portafolio de Proyectos](https://github.com/marc)  
+
+---
+
+## 📌 **Repositorios Destacados**  
+🔗 **[Segmentación de Clientes para Geociencias](https://github.com/marc/client-segmentation-geoscience)**  
+🔗 **[Análisis Exploratorio de Datos Geológicos](https://github.com/marc/geoscience-eda)**  
+🔗 **[Detección de Anomalías en Muestras Mineras](https://github.com/marc/mining-anomalies-detection)**  
+
+---
+
+
 
 
 ---
