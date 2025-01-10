@@ -46,8 +46,7 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 🛠️ **Tecnologías:** TensorFlow, Keras.  
 📈 **Impacto:** Alta precisión en la identificación de enfermedades, mejorando el diagnóstico temprano.
 
-### [Project 1: Detección de Neumonía en Imágenes de Rayos X](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
-## - [Project 1: Detección de Neumonía en Imágenes de Rayos X](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
+#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
 
 ---
 
