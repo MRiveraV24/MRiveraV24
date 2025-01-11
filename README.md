@@ -1,8 +1,6 @@
 ---
 
-# 🌎 ** Administrador, Analista y Proyectista de Datos Geocientíficos** 
-
----
+# 🌎 **Administrador, Analista y Proyectista de Datos Geocientíficos** 
 
 ## 📘 **Sobre mí**  
 Soy Marcelo, un administrador, analista y proyectista de datos geológicos con más de 10 años de experiencia en minería. Mi pasión radica en ayudar a geólogos e ingenieros a tomar decisiones estratégicas a través de la integración de tecnologías avanzadas, análisis de datos y modelado geocientífico.
