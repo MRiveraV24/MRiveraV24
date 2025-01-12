@@ -15,10 +15,12 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 ### 1️⃣  **"Diagnóstico Temprano de Neumonía Infantil: Una Perspectiva Innovadora desde la Inteligencia Artificial"**  
 📌 **Descripción:** Este proyecto aplica inteligencia artificial para el diagnóstico temprano de neumonía infantil mediante redes neuronales convolucionales (CNN). Utilizando imágenes de rayos X de tórax, el modelo busca mejorar la precisión, reducir el tiempo de diagnóstico y apoyar la toma de decisiones en el ámbito médico.    
+
 🛠️ **Tecnologías:**  
 - **Lenguajes y bibliotecas:** Python, TensorFlow, Keras, NumPy, Matplotlib.  
 - **Metodología:** Preprocesamiento de imágenes, entrenamiento y evaluación de modelos, validación cruzada.  
 - **Herramientas:** Jupyter Notebook para el desarrollo y análisis del modelo.   
+
 📈 **Impacto:**  
 - El modelo ensamblado logró una precisión (**accuracy**) del 74%, superando a los modelos individuales que alcanzaron entre 57% y 60%.  
 - Contribuyó a diagnósticos más precisos, rápidos y accesibles, complementando la labor de los profesionales de la radiología.
