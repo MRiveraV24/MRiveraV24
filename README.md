@@ -14,9 +14,9 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 ## 📂 **Proyectos Destacados**
 
 ### 1️⃣  **"Diagnóstico Temprano de Neumonía Infantil: Una Perspectiva Innovadora desde la Inteligencia Artificial"**  
-📌 **Descripción:** Modelo basado en redes neuronales para detección de neumonía.  
-🛠️ **Tecnologías:** TensorFlow, Keras.  
-📈 **Impacto:** Alta precisión en la identificación de enfermedades, mejorando el diagnóstico temprano.
+📌 **Descripción:**   
+🛠️ **Tecnologías:**   
+📈 **Impacto:** 
 
 #### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
 
