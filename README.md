@@ -25,7 +25,7 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 - El modelo ensamblado logró una precisión (**accuracy**) del 74%, superando a los modelos individuales que alcanzaron entre 57% y 60%.  
 - Contribuyó a diagnósticos más precisos, rápidos y accesibles, complementando la labor de los profesionales de la radiología.
 
-#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
+#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_01/tree/main)
 
 
 ### 2️⃣ **Análisis Predictivo de Salarios y Contratación en el Sector Tecnológico**  
@@ -48,15 +48,10 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 
 
+#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_02/tree/main)
 
 
 
-
-
-
-
-
-#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
 
 ### 3️⃣ **Segmentación de Clientes para Productos Financieros**  
 📌 **Descripción:** Identificación de 4 segmentos clave de clientes para optimizar campañas de marketing.  
