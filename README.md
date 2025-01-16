@@ -13,7 +13,7 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 ## 📂 **Proyectos Destacados**
 
-### 1️⃣  **"Diagnóstico Temprano de Neumonía Infantil: Una Perspectiva Innovadora desde la Inteligencia Artificial"**  
+### 1️⃣  **"Detección de Neumonía Pediátrica mediante Inteligencia Artificial"**  
 📌 **Descripción:**     
 
 Este proyecto desarrolla un sistema de inteligencia artificial (IA) para ayudar a detectar la neumonía en radiografías de tórax de niños. La neumonía es una causa importante de mortalidad infantil, y el diagnóstico temprano es crucial. El sistema utiliza redes neuronales convolucionales (CNN) para analizar las radiografías y ayudar a los médicos a realizar diagnósticos más rápidos y precisos, especialmente en áreas con recursos médicos limitados. Este sistema no reemplaza a los médicos, sino que actúa como una herramienta de apoyo para los profesionales de la salud. El objetivo principal es mejorar la precisión y la rapidez en el diagnóstico de esta enfermedad.
