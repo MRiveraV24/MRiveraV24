@@ -36,11 +36,15 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 📈 **Impacto:** Este proyecto tiene un impacto significativo en la gestión de recursos humanos, ya que permite:
 
-•	Predecir salarios: Los modelos desarrollados pueden predecir el salario que un postulante solicitará, ayudando a las empresas a planificar sus presupuestos y ofrecer salarios competitivos.
-•	Optimizar la contratación: Al predecir la probabilidad de contratación, se facilita la identificación de los candidatos más adecuados, lo que reduce el tiempo y costo del proceso.
-•	Entender las tendencias del mercado: El análisis de datos revela patrones y tendencias en la relación entre los factores de los postulantes y las decisiones de contratación.
-•	Mejorar la toma de decisiones: Los resultados del proyecto ofrecen una base más objetiva para las decisiones de recursos humanos, minimizando sesgos y mejorando la equidad.
-•	Análisis de datos: Los modelos desarrollados ofrecen un análisis más detallado de los datos y una mejor comprensión de la relación entre las variables 
+- Predecir salarios: Los modelos desarrollados pueden predecir el salario que un postulante solicitará, ayudando a las empresas a planificar sus presupuestos y ofrecer salarios competitivos.
+
+- Optimizar la contratación: Al predecir la probabilidad de contratación, se facilita la identificación de los candidatos más adecuados, lo que reduce el tiempo y costo del proceso.
+
+- Entender las tendencias del mercado: El análisis de datos revela patrones y tendencias en la relación entre los factores de los postulantes y las decisiones de contratación.
+
+- Mejorar la toma de decisiones: Los resultados del proyecto ofrecen una base más objetiva para las decisiones de recursos humanos, minimizando sesgos y mejorando la equidad.
+
+- Análisis de datos: Los modelos desarrollados ofrecen un análisis más detallado de los datos y una mejor comprensión de la relación entre las variables 
 
 
 
