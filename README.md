@@ -14,16 +14,17 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 ## 📂 **Proyectos Destacados**
 
 ### 1️⃣  **"Diagnóstico Temprano de Neumonía Infantil: Una Perspectiva Innovadora desde la Inteligencia Artificial"**  
-📌 **Descripción:** Este proyecto aplica inteligencia artificial para el diagnóstico temprano de neumonía infantil mediante redes neuronales convolucionales (CNN). Utilizando imágenes de rayos X de tórax, el modelo busca mejorar la precisión, reducir el tiempo de diagnóstico y apoyar la toma de decisiones en el ámbito médico.    
+📌 **Descripción:**     
+
+Este proyecto desarrolla un sistema de inteligencia artificial (IA) para ayudar a detectar la neumonía en radiografías de tórax de niños. La neumonía es una causa importante de mortalidad infantil, y el diagnóstico temprano es crucial. El sistema utiliza redes neuronales convolucionales (CNN) para analizar las radiografías y ayudar a los médicos a realizar diagnósticos más rápidos y precisos, especialmente en áreas con recursos médicos limitados. Este sistema no reemplaza a los médicos, sino que actúa como una herramienta de apoyo para los profesionales de la salud. El objetivo principal es mejorar la precisión y la rapidez en el diagnóstico de esta enfermedad.
 
 🛠️ **Tecnologías:**  
-  - **Lenguajes y bibliotecas:** Python, TensorFlow, Keras, NumPy, Matplotlib.  
-  - **Metodología:** Preprocesamiento de imágenes, entrenamiento y evaluación de modelos, validación cruzada.  
-  - **Herramientas:** Jupyter Notebook para el desarrollo y análisis del modelo.   
+
+Este proyecto utiliza Python como lenguaje de programación principal y se basa en varias librerías clave de aprendizaje profundo como TensorFlow y Keras para construir e implementar los modelos de IA. Se emplearon NumPy y Pandas para la manipulación de datos, Matplotlib y Seaborn para la visualización de los mismos, y Scikit-learn para la evaluación del rendimiento de los modelos. Además, se utilizó Keras Tuner para la optimización de hiperparámetros. El modelo entrenado se basa en redes neuronales convolucionales para el análisis de imágenes. También se aplicó la técnica de aprendizaje por transferencia
 
 📈 **Impacto:**  
-- El modelo ensamblado logró una precisión (**accuracy**) del 74%, superando a los modelos individuales que alcanzaron entre 57% y 60%.  
-- Contribuyó a diagnósticos más precisos, rápidos y accesibles, complementando la labor de los profesionales de la radiología.
+
+El proyecto busca tener un impacto positivo en la salud infantil, mejorando el diagnóstico temprano de neumonía. El sistema puede ser utilizado como una herramienta de apoyo para los médicos, ayudándoles a reducir el tiempo de diagnóstico y mejorar la precisión en la detección de neumonía. Esto es especialmente relevante en áreas con recursos médicos limitados, donde la falta de radiólogos capacitados es un problema significativo. Al hacer el diagnóstico más accesible y rápido, este sistema puede contribuir a reducir la mortalidad infantil asociada a esta enfermedad. Aunque se encontraron áreas de mejora, el modelo demostró un buen rendimiento general, especialmente el modelo ensamblado, mostrando el potencial de la IA en el diagnóstico médico.
 
 #### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_01/tree/main)
 
