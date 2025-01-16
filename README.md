@@ -53,12 +53,36 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 
 
-### 3️⃣ **Segmentación de Clientes para Productos Financieros**  
-📌 **Descripción:** Identificación de 4 segmentos clave de clientes para optimizar campañas de marketing.  
-🛠️ **Tecnologías:** Python, K-means, Power BI.  
-📈 **Impacto:** Decisiones estratégicas basadas en datos para aumentar la conversión de clientes.
+### 3️⃣ **Segmentación de Clientes para Productos Financieros Personalizados**  
+📌 **Descripción:** 
+Este proyecto se centra en la segmentación de clientes de una empresa financiera, utilizando técnicas de análisis de datos para identificar grupos con características similares. El objetivo es permitir a la empresa ofrecer productos financieros con límites de crédito personalizados. Se utilizan datos históricos para crear una segmentación útil y práctica, facilitando la toma de decisiones estratégicas. A través de este análisis, se busca una comprensión más profunda de los datos de los clientes y mejorar la forma en que se ofrecen los productos financieros. Se utilizan técnicas de "clustering" para agrupar a los clientes, lo que permite personalizar las ofertas y hacer un uso más eficiente de los recursos de la empresa.  
 
-#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD/tree/main)
+
+🛠️ **Tecnologías:** 
+
+Las principales herramientas utilizadas en este proyecto incluyen:
+•	Python: El lenguaje de programación principal para el análisis de datos y la implementación del modelo de segmentación.
+•	Pandas: Para la manipulación y el análisis de los datos tabulares.
+•	NumPy: Para realizar operaciones numéricas eficientes con los datos.
+•	Matplotlib y Seaborn: Para la visualización de datos, incluyendo la creación de gráficos descriptivos y de la distribución de los datos.
+•	Scikit-learn: Para la implementación de algoritmos de clustering (K-means) y para la reducción de dimensionalidad (PCA). También se utiliza para el escalado de datos y la evaluación del modelo.
+•	Plotly: Para la generación de gráficos interactivos.
+•	Yellowbrick: Para la visualización del método del codo para determinar el número óptimo de clusters.
+•	SciPy: Para realizar análisis de clústeres jerárquicos a través de dendrogramas.  
+
+
+📈 **Impacto:** 
+
+Este proyecto tiene un impacto significativo en varias áreas:
+•	Personalización de productos financieros: Permite a la empresa ofrecer productos de crédito más adecuados a las necesidades de cada segmento de clientes, optimizando así la satisfacción y la lealtad del cliente.
+•	Mejora en la asignación de nuevos clientes: El modelo puede asignar nuevos clientes a los segmentos apropiados, facilitando la oferta de productos personalizados desde el inicio de la relación.
+•	Optimización de campañas de marketing: La segmentación permite enfocar los esfuerzos de marketing en los grupos de clientes más adecuados, incrementando la efectividad de las campañas y reduciendo los costos.
+•	Mejora en la toma de decisiones: Al comprender mejor los distintos grupos de clientes, la empresa puede tomar decisiones más informadas sobre sus productos, estrategias y distribución de recursos.
+•	Mayor comprensión de los datos de clientes: El proyecto ofrece información valiosa sobre las características que diferencian a los clientes. Los análisis revelan correlaciones significativas, como la relación entre el límite de crédito y el tiempo como cliente.
+
+
+#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_03/tree/main)
+
 
 ---
 
