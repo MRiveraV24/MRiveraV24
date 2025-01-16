@@ -29,9 +29,15 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 
 ### 2️⃣ **Análisis Predictivo de Salarios y Contratación en el Sector Tecnológico**  
-📌 **Descripción:**  
-🛠️ **Tecnologías:** 
-📈 **Impacto:** 
+📌 **Descripción:** Este proyecto aplica técnicas de análisis de datos y aprendizaje automático para predecir los salarios de los postulantes y determinar su probabilidad de contratación en empresas de tecnología. Se utilizan modelos predictivos basados en factores como experiencia, educación y otros datos relevantes de los candidatos. El objetivo es proporcionar información valiosa para la toma de decisiones en el área de recursos humanos. Este análisis ayuda a entender mejor las tendencias del mercado laboral y a optimizar los procesos de contratación. 
+🛠️ **Tecnologías:** El proyecto fue desarrollado usando Python, junto con las bibliotecas Pandas para la manipulación de datos, NumPy para operaciones numéricas, y Scikit-learn para la implementación de los modelos de aprendizaje automático. También se utilizaron Matplotlib y Seaborn para la visualización de datos. Estas herramientas permitieron la creación de un flujo de trabajo completo desde la preparación de datos hasta la evaluación de los modelos. 
+📈 **Impacto:** Este proyecto tiene un impacto significativo en la gestión de recursos humanos, ya que permite:
+•	Predecir salarios: Los modelos desarrollados pueden predecir el salario que un postulante solicitará, ayudando a las empresas a planificar sus presupuestos y ofrecer salarios competitivos.
+•	Optimizar la contratación: Al predecir la probabilidad de contratación, se facilita la identificación de los candidatos más adecuados, lo que reduce el tiempo y costo del proceso.
+•	Entender las tendencias del mercado: El análisis de datos revela patrones y tendencias en la relación entre los factores de los postulantes y las decisiones de contratación.
+•	Mejorar la toma de decisiones: Los resultados del proyecto ofrecen una base más objetiva para las decisiones de recursos humanos, minimizando sesgos y mejorando la equidad.
+•	Análisis de datos: Los modelos desarrollados ofrecen un análisis más detallado de los datos y una mejor comprensión de la relación entre las variables 
+
 
 
 1️⃣ "Análisis Predictivo de Salarios y Contratación en el Sector Tecnológico"
