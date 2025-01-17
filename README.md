@@ -13,6 +13,30 @@ Soy Marcelo, un administrador, analista y proyectista de datos geológicos con m
 
 ## 📂 **Proyectos Destacados**
 
+
+### 1️⃣ **Detección de Neumonía Pediátrica mediante Inteligencia Artificial**  
+
+📌 **Descripción General:**  
+Este proyecto utiliza inteligencia artificial para asistir en el diagnóstico de neumonía en radiografías de tórax pediátricas, una enfermedad que representa una de las principales causas de mortalidad infantil. A través de redes neuronales convolucionales (CNN), el sistema analiza imágenes médicas para proporcionar un soporte rápido y preciso a los médicos, especialmente en regiones con recursos limitados. Este enfoque no sustituye a los profesionales de la salud, sino que complementa su trabajo, mejorando la rapidez y calidad del diagnóstico.  
+
+🛠️ **Tecnologías Empleadas:**  
+- **Lenguaje:** Python  
+- **Bibliotecas:** TensorFlow, Keras (aprendizaje profundo), NumPy y Pandas (manipulación de datos), Matplotlib y Seaborn (visualización), Scikit-learn (evaluación de modelos), Keras Tuner (optimización de hiperparámetros).  
+- **Metodologías:** Redes neuronales convolucionales, aprendizaje por transferencia, preprocesamiento de datos.  
+
+📈 **Impacto:**  
+El modelo ayuda a reducir el tiempo y la complejidad del diagnóstico de neumonía, proporcionando un valioso apoyo en áreas con acceso limitado a radiólogos capacitados. Contribuye a disminuir la mortalidad infantil al facilitar diagnósticos tempranos y más accesibles. Si bien hay margen para mejorar la precisión y el equilibrio en los datos, el proyecto destaca el potencial de la inteligencia artificial como herramienta complementaria en la medicina.  
+
+🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_01/tree/main)  
+
+--- 
+
+
+
+
+
+
+
 ### 1️⃣  **"Detección de Neumonía Pediátrica mediante Inteligencia Artificial"**  
 📌 **Descripción:**     
 
