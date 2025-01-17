@@ -30,31 +30,25 @@ El modelo ayuda a reducir el tiempo y la complejidad del diagnóstico de neumon�
 🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_01/tree/main)  
 
 --- 
+### 2️⃣ **Análisis Predictivo de Salarios y Contratación en el Sector Tecnológico**
 
-### 2️⃣ **Análisis Predictivo de Salarios y Contratación en el Sector Tecnológico**  
+📌 **Descripción:** Este proyecto explora cómo los datos y el aprendizaje automático pueden transformar la gestión de recursos humanos en empresas de tecnología. Utilizando información clave de los postulantes, como experiencia y educación, se desarrollaron modelos predictivos para anticipar salarios y determinar probabilidades de contratación. El análisis revela patrones laborales y optimiza decisiones estratégicas en contratación.
 
-📌 **Descripción:** Este proyecto aplica técnicas de análisis de datos y aprendizaje automático para predecir los salarios de los postulantes y determinar su probabilidad de contratación en empresas de tecnología. Se utilizan modelos predictivos basados en factores como experiencia, educación y otros datos relevantes de los candidatos. El objetivo es proporcionar información valiosa para la toma de decisiones en el área de recursos humanos. Este análisis ayuda a entender mejor las tendencias del mercado laboral y a optimizar los procesos de contratación. 
+🛠️ **Tecnologías:**
+- **Python:** Lenguaje principal del proyecto.
+- **Bibliotecas:** Pandas (análisis de datos), NumPy (cálculos numéricos), Scikit-learn (modelos de machine learning), Matplotlib y Seaborn (visualización).
+- Estas herramientas facilitaron un flujo de trabajo integral desde la preparación de datos hasta la evaluación de modelos predictivos.
 
-🛠️ **Tecnologías:** El proyecto fue desarrollado usando Python, junto con las bibliotecas Pandas para la manipulación de datos, NumPy para operaciones numéricas, y Scikit-learn para la implementación de los modelos de aprendizaje automático. También se utilizaron Matplotlib y Seaborn para la visualización de datos. Estas herramientas permitieron la creación de un flujo de trabajo completo desde la preparación de datos hasta la evaluación de los modelos. 
-
-📈 **Impacto:** Este proyecto tiene un impacto significativo en la gestión de recursos humanos, ya que permite:
-
-- Predecir salarios: Los modelos desarrollados pueden predecir el salario que un postulante solicitará, ayudando a las empresas a planificar sus presupuestos y ofrecer salarios competitivos.
-
-- Optimizar la contratación: Al predecir la probabilidad de contratación, se facilita la identificación de los candidatos más adecuados, lo que reduce el tiempo y costo del proceso.
-
-- Entender las tendencias del mercado: El análisis de datos revela patrones y tendencias en la relación entre los factores de los postulantes y las decisiones de contratación.
-
-- Mejorar la toma de decisiones: Los resultados del proyecto ofrecen una base más objetiva para las decisiones de recursos humanos, minimizando sesgos y mejorando la equidad.
-
-- Análisis de datos: Los modelos desarrollados ofrecen un análisis más detallado de los datos y una mejor comprensión de la relación entre las variables 
-
-
+📈 **Impacto:**
+- **Predicción Salarial:** Ayuda a las empresas a ofrecer salarios competitivos y ajustar presupuestos con base en datos.
+- **Optimización de Contratación:** Identifica a los candidatos más adecuados, reduciendo tiempo y costos.
+- **Análisis del Mercado:** Descubre tendencias y patrones relevantes en el sector tecnológico.
+- **Mejor Toma de Decisiones:** Minimiza sesgos y fomenta la equidad en la contratación mediante análisis objetivo.
 
 #### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_02/tree/main)
 
-
-
+ 
+--- 
 
 ### 3️⃣ **Segmentación de Clientes para Productos Financieros Personalizados**  
 📌 **Descripción:** 
