@@ -47,8 +47,7 @@ El modelo ayuda a reducir el tiempo y la complejidad del diagnóstico de neumon�
 
 #### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_02/tree/main)
 
- 
---- 
+
 
 ### 3️⃣ **Segmentación de Clientes para Productos Financieros Personalizados**  
 📌 **Descripción:** 
