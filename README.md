@@ -111,19 +111,19 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 
 ---
 
+## ⏩ **Instrucciones de Instalación proyectos** 
 
-# ⏩How to Run the Projects
 
 Each project has its own folder and contains a `README.md` with detailed instructions on how to run the code. Below is a general example of how to clone the repository and install the necessary dependencies:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/MRiveraV24/Proyecto_M7_Bootcamp_UDD
+    git clone https://github.com/MRiveraV24/Proyecto_01
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Portfolio_projects
+    cd Proyecto_01
     ```
 
 3. Install the dependencies:
@@ -133,10 +133,12 @@ Each project has its own folder and contains a `README.md` with detailed instruc
 
 4. Run the project's main script:
     ```sh
-    python scripts/analysis.py
+    python Cuaderno/Proyecto_01.py
     ```
 
 ---
+
+
 
 ¡Gracias por visitar mi portafolio! Estoy a tu disposición para responder cualquier pregunta o para discutir posibles oportunidades de colaboración. No dudes en ponerte en contacto conmigo para explorar cómo podemos trabajar juntos y lograr grandes cosas.
 
