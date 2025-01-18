@@ -45,7 +45,7 @@ El modelo ayuda a reducir el tiempo y la complejidad del diagnóstico de neumon�
 - **Análisis del Mercado:** Descubre tendencias y patrones relevantes en el sector tecnológico.
 - **Mejor Toma de Decisiones:** Minimiza sesgos y fomenta la equidad en la contratación mediante análisis objetivo.
 
-#### - [Ver proyecto ](https://github.com/MRiveraV24/Proyecto_02/tree/main)
+🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_02/tree/main)  
 
 ### 3️⃣ **Segmentación de Clientes para Productos Financieros Personalizados**
 
@@ -71,7 +71,7 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 
 #### 🔗 [Ver proyecto](https://github.com/MRiveraV24/Proyecto_03/tree/main)
 
-
+🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_02/tree/main)  
 
 ---
 
