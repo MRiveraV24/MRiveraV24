@@ -69,9 +69,7 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 - **Decisiones basadas en datos**: Información clara para estrategias financieras más sólidas.
 - **Comprensión de clientes**: Identificación de patrones clave como la relación entre antigüedad y límite de crédito.
 
-#### 🔗 [Ver proyecto](https://github.com/MRiveraV24/Proyecto_03/tree/main)
-
-🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_02/tree/main)  
+🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_03/tree/main)  
 
 ---
 
