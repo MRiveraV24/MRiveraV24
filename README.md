@@ -111,7 +111,63 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 
 ---
 
-## ⏩ **Instrucciones de Instalación proyectos** 
+## ⏩ **Instrucciones de Instalación y Ejecución**
+
+### Requisitos previos
+Asegúrate de tener instalados los siguientes elementos antes de comenzar:
+- [Python 3.8 o superior](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/)
+- Un entorno virtual recomendado ([venv](https://docs.python.org/3/library/venv.html) o [virtualenv](https://virtualenv.pypa.io/))
+
+### Pasos generales para ejecutar el proyecto
+Sigue estas instrucciones para clonar y ejecutar el código de este proyecto:
+
+1. **Clonar el repositorio**  
+   Clona este proyecto en tu máquina local:
+   ```sh
+   git clone https://github.com/MRiveraV24/Proyecto_01.git
+   ```
+
+2. **Navegar al directorio del proyecto**  
+   Accede al directorio raíz del proyecto:
+   ```sh
+   cd Proyecto_01
+   ```
+
+3. **Crear y activar un entorno virtual** *(opcional, pero recomendado)*  
+   ```sh
+   python -m venv env
+   source env/bin/activate  # En macOS/Linux
+   .\env\Scripts\activate   # En Windows
+   ```
+
+4. **Instalar las dependencias**  
+   Instala las bibliotecas necesarias utilizando el archivo `requirements.txt`:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+5. **Ejecutar el código**  
+   Ejecuta el archivo principal del proyecto:
+   ```sh
+   python Cuaderno/Proyecto_01.py
+   ```
+
+### Notas adicionales
+- **Estructura del proyecto:** Asegúrate de que los archivos necesarios, como los datos de entrada o configuraciones, estén en las rutas correspondientes especificadas en el script. Consulta el `README.md` del proyecto para más detalles específicos.
+- **Reportar problemas:** Si encuentras algún problema, por favor, abre un [issue aquí](https://github.com/MRiveraV24/Proyecto_01/issues).
+
+---
+
+
+
+
+
+
+
+
+
+## ⏩ **Instrucciones de Instalación proyectos Luis** 
 
 
 Each project has its own folder and contains a `README.md` with detailed instructions on how to run the code. Below is a general example of how to clone the repository and install the necessary dependencies:
