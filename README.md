@@ -107,11 +107,10 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 ## 💬 **Contáctame**  
 🌐 [LinkedIn](https://www.linkedin.com/in/marcelo-rivera-vega/)  
 📧 marcelo.rivera.vega@gmail.com  
-📂 [Portafolio de Proyectos](https://github.com/MRiveraV24)  
+ 
+ ---
 
----
-
-## ⏩ **Instrucciones de Instalación y Ejecución**
+## 🔴 **Instrucciones de Instalación y Ejecución**
 
 ### Requisitos previos
 Asegúrate de tener instalados los siguientes elementos antes de comenzar:
@@ -159,44 +158,7 @@ Sigue estas instrucciones para clonar y ejecutar el código de este proyecto:
 
 ---
 
-
-
-
-
-
-
-
-
-## ⏩ **Instrucciones de Instalación proyectos Luis** 
-
-
-Each project has its own folder and contains a `README.md` with detailed instructions on how to run the code. Below is a general example of how to clone the repository and install the necessary dependencies:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/MRiveraV24/Proyecto_01
-    ```
-
-2. Navigate to the project directory:
-    ```sh
-    cd Proyecto_01
-    ```
-
-3. Install the dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4. Run the project's main script:
-    ```sh
-    python Cuaderno/Proyecto_01.py
-    ```
-
----
-
-
-
-¡Gracias por visitar mi portafolio! Estoy a tu disposición para responder cualquier pregunta o para discutir posibles oportunidades de colaboración. No dudes en ponerte en contacto conmigo para explorar cómo podemos trabajar juntos y lograr grandes cosas.
+¡Gracias por visitar mi portafolio! Estoy disponible para responder cualquier pregunta y discutir posibles oportunidades de colaboración. No dudes en contactarme para explorar cómo podemos trabajar juntos y alcanzar grandes logros.
 
 ---
 
