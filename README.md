@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marcelo Rivera  
 
-🌍 **Transformando datos geocientíficos en soluciones estratégicas**  
+## 🌍 **Transformando datos geocientíficos en soluciones estratégicas**  
 
 ¿Sabías que en la industria minera solo se aprovecha el 27% de los datos generados? Esto significa que el 73% restante, lleno de oportunidades para optimizar procesos, reducir costos y tomar decisiones estratégicas, queda desaprovechado. Mi misión es cambiar esta realidad.  
 
@@ -120,8 +120,8 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 🌐 [LinkedIn](https://www.linkedin.com/in/marcelo-rivera-vega/)  
 📧 marcelo.rivera.vega@gmail.com  
 
-marcelo.rivera.vega@gmail.com](mailto:marcelo.rivera.vega@gmail.com)  
-🌐 Consulta mi portafolio en [GitHub](#)
+📧 Escríbeme a [marcelo.rivera.vega@gmail.com](mailto:marcelo.rivera.vega@gmail.com)  
+🌐 Consulta mi portafolio en [GitHub](#) 
  ---
 
 ## 🔴 **Instrucciones de Instalación y Ejecución**
