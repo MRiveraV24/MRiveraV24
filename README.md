@@ -1,13 +1,22 @@
+# 👋 ¡Hola! Soy Marcelo Rivera  
+
+**Transformando datos geocientíficos en soluciones estratégicas**  
+
+¿Sabías que en la industria minera solo se aprovecha el 27% de los datos generados? Esto significa que el 73% restante, lleno de oportunidades para optimizar procesos, reducir costos y tomar decisiones estratégicas, queda desaprovechado. Mi misión es cambiar esta realidad.  
+
+Con más de 10 años de experiencia en administración, análisis y modelado 3D de datos geocientíficos, he trabajado con grandes y medianas compañías mineras, así como con empresas de servicios, colaborando estrechamente con geólogos e ingenieros.  
+
 ---
 
-# 🌎 **Administrador, Analista y Proyectista de Datos Geocientíficos** 
+## 🌟 **¿Qué puedo aportar?**
 
-## 📘 **Sobre mí**  
-Soy Marcelo, un administrador, analista y proyectista de datos geológicos con más de 10 años de experiencia en minería. Mi pasión radica en ayudar a geólogos e ingenieros a tomar decisiones estratégicas a través de la integración de tecnologías avanzadas, análisis de datos y modelado geocientífico.
-
-🎯 Transformo datos geológicos complejos en soluciones estratégicas, impulsando decisiones basadas en datos en la industria minera.  
-🔍 Especializado en administración, análisis y modelado 3D de datos geocientíficos.  
-💼 Experiencia práctica en proyectos que integran ciencia de datos, machine learning y herramientas GIS para optimizar operaciones y exploración minera.
+- **Diseño y administración de bases de datos geológicas:** Organización y optimización de datos para garantizar su accesibilidad y calidad.  
+- **Toma de decisiones basada en datos:** Uso de herramientas de análisis avanzado para generar insights clave.  
+- **Consultas SQL eficientes:** Creación de consultas optimizadas para manejar grandes volúmenes de datos.  
+- **Visualización de datos:** Desarrollo de tableros interactivos en Power BI que facilitan la toma de decisiones.  
+- **Modelado 3D y mapas temáticos:** Creación de modelos geocientíficos precisos para proyectos de exploración y minería.  
+- **Aplicación de inteligencia artificial:** Resolución de problemas complejos mediante Machine Learning y análisis predictivo.  
+- **Liderazgo en proyectos mineros:** Coordinación de equipos multidisciplinarios y supervisión de operaciones en terreno.  
 
 ---
 
