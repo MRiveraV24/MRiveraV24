@@ -9,7 +9,8 @@ Esto significa que el 73% restante, lleno de oportunidades para optimizar proces
 ---
 
 ## 💡 Sobre mí 
-Con más de 10 años de experiencia en administración, análisis y modelado 3D de datos geocientíficos, he trabajado con grandes y medianas compañías mineras, así como con empresas de servicios, colaborando estrechamente con geólogos e ingenieros.  
+
+Con más de 10 años de experiencia en administración, análisis y modelado 3D de datos geocientíficos, he trabajado con grandes y medianas compañías mineras, así como con empresas de servicios, colaborando estrechamente con geólogos e ingenieros.   
 
 ---
 
