@@ -88,6 +88,46 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 
 ---
 
+### 3️⃣ **Pipeline de Datos ETL para Análisis de Viajes de Uber en NYC (2014)**
+
+📌 **Descripción:**
+Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar clientes de una institución financiera en grupos homogéneos, con el objetivo de ofrecer productos personalizados. Usando datos históricos, se identifican características clave de los clientes para optimizar estrategias de marketing, mejorar la asignación de nuevos clientes y maximizar la satisfacción del cliente.
+
+🛠️ **Tecnologías:**
+- **Python**: Lenguaje principal para análisis y modelado.
+- **Pandas**: Manipulación y análisis de datos tabulares.
+- **NumPy**: Operaciones numéricas eficientes.
+- **Matplotlib y Seaborn**: Visualización de datos y gráficos descriptivos.
+- **Scikit-learn**: Algoritmos de clustering (K-means), reducción de dimensionalidad (PCA) y evaluación del modelo.
+- **Plotly**: Gráficos interactivos.
+- **Yellowbrick**: Visualización para selección del número óptimo de clusters.
+- **SciPy**: Análisis jerárquico de clústeres (dendrogramas).
+
+📈 **Impacto:**
+- **Personalización de productos**: Adaptación de límites de crédito a las necesidades específicas de cada grupo.
+- **Asignación inteligente de nuevos clientes**: Clasificación automática en segmentos desde el inicio.
+- **Optimización de marketing**: Campañas dirigidas para maximizar la efectividad y minimizar costos.
+- **Decisiones basadas en datos**: Información clara para estrategias financieras más sólidas.
+- **Comprensión de clientes**: Identificación de patrones clave como la relación entre antigüedad y límite de crédito.
+
+🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_04/tree/main)  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📊 **Habilidades** 
 
 - **Lenguajes de Programación:** Python, Markdown.
