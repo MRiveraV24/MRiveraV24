@@ -88,45 +88,36 @@ Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar cl
 
 ---
 
-### 3️⃣ **Pipeline de Datos ETL para Análisis de Viajes de Uber en NYC (2014)**
+### 4️⃣ **Pipeline de Datos ETL para Análisis de Viajes de Uber en NYC (2014)**
 
 📌 **Descripción:**
-Este proyecto aplica técnicas avanzadas de análisis de datos para segmentar clientes de una institución financiera en grupos homogéneos, con el objetivo de ofrecer productos personalizados. Usando datos históricos, se identifican características clave de los clientes para optimizar estrategias de marketing, mejorar la asignación de nuevos clientes y maximizar la satisfacción del cliente.
+Este proyecto desarrolla una **robusta canalización de datos ETL (Extracción, Transformación, Carga)** con una **arquitectura Medallón (Bronze, Silver, Gold)** en **Databricks Free Edition**. Procesa **más de 4.5 millones de registros de recogidas de Uber en NYC** de **abril a septiembre de 2014**. Su objetivo es transformar datos crudos en **insights accionables** sobre patrones de demanda y rendimiento de bases, permitiendo la toma de decisiones estratégicas.
+
+---
 
 🛠️ **Tecnologías:**
-- **Python**: Lenguaje principal para análisis y modelado.
-- **Pandas**: Manipulación y análisis de datos tabulares.
-- **NumPy**: Operaciones numéricas eficientes.
-- **Matplotlib y Seaborn**: Visualización de datos y gráficos descriptivos.
-- **Scikit-learn**: Algoritmos de clustering (K-means), reducción de dimensionalidad (PCA) y evaluación del modelo.
-- **Plotly**: Gráficos interactivos.
-- **Yellowbrick**: Visualización para selección del número óptimo de clusters.
-- **SciPy**: Análisis jerárquico de clústeres (dendrogramas).
+
+*   **Databricks Free Edition:** Se utilizó como plataforma unificada para el procesamiento de datos y la colaboración, aprovechando las optimizaciones de **Apache Spark** para grandes volúmenes de datos y su soporte nativo para **Delta Lake**. Su edición gratuita fue ideal para demostrar las capacidades de la plataforma sin costos iniciales.
+*   **Delta Lake:** Proporciona **fiabilidad (transacciones ACID)**, crucial para pipelines robustos. Permite la **evolución de esquemas** y está **optimizado para grandes volúmenes de datos**, facilitando la **auditoría y el control de versiones**. Se integra de forma nativa con Apache Spark.
+*   **Power BI:** Empleado para **visualización interactiva**, creando dashboards y reportes dinámicos. Permite la **conectividad directa a Delta Lake** (a través de Databricks SQL Analytics Endpoint) para consumir eficientemente los datos de la capa Gold.
+
+---
 
 📈 **Impacto:**
-- **Personalización de productos**: Adaptación de límites de crédito a las necesidades específicas de cada grupo.
-- **Asignación inteligente de nuevos clientes**: Clasificación automática en segmentos desde el inicio.
-- **Optimización de marketing**: Campañas dirigidas para maximizar la efectividad y minimizar costos.
-- **Decisiones basadas en datos**: Información clara para estrategias financieras más sólidas.
-- **Comprensión de clientes**: Identificación de patrones clave como la relación entre antigüedad y límite de crédito.
+
+El proyecto logró construir una **canalización de datos ETL de extremo a extremo robusta y escalable**, facilitando la ingesta eficiente, la transformación de calidad y el modelado de datos para el negocio. Esto permitió **proporcionar una base de datos confiable y estructurada** para que los analistas de negocio y científicos de datos respondan preguntas críticas, abordando desafíos como la ineficiencia operacional y la planificación estratégica.
+
+**Hallazgos clave y métricas obtenidas incluyen:**
+*   **Crecimiento Mensual de Viajes:** Se observó un **crecimiento sostenido y significativo** mes a mes, con un **aumento del 24% en septiembre de 2014**, lo que indica una rápida adopción del servicio de Uber en NYC.
+*   **Patrones de Demanda por Hora del Día:** La demanda horaria muestra un patrón claro de **"horas pico" durante la tarde y noche (especialmente entre las 17:00 y las 21:00)**, lo cual es crucial para la gestión de la flota y las tarifas dinámicas.
+*   **Rendimiento por Base de Operaciones:** Las bases **B02617, B02598 y B02682 dominaron el volumen de viajes**, manejando la mayor parte de las recogidas y siendo pilares de la operación.
+*   **Hotspots Geográficos de Demanda:** El análisis geoespacial identificó áreas de alta concentración de recogidas, como **Midtown Manhattan, el Distrito Financiero y el East Village**, indicando dónde concentrar la oferta de vehículos.
+
+Estos insights son fundamentales para **optimizar la asignación de conductores, mejorar la experiencia del usuario y guiar la planificación estratégica** de Uber en Nueva York.
 
 🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_04/tree/main)  
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 📊 **Habilidades** 
 
