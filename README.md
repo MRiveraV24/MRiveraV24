@@ -119,6 +119,26 @@ Estos insights son fundamentales para **optimizar la asignación de conductores,
 
 ---
 
+### 4️⃣ **Pipeline ETL con Arquitectura Medallion - E-commerce Dataset**
+
+📌 **Descripción:**
+
+
+---
+
+🛠️ **Tecnologías:**
+
+
+
+---
+
+📈 **Impacto:**
+
+
+🔗 [**Ver Proyecto**](https://github.com/MRiveraV24/Proyecto_05/tree/main)  
+
+---
+
 ## 📊 **Habilidades** 
 
 - **Lenguajes de Programación:** Python, Markdown.
